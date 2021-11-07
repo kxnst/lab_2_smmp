@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab 2</string>
+    <string name="color_green">green</string>
+    <string name="color_red">red</string>
+    <string name="color_yellow">yellow</string>
+    <string name="color_green_hex">#008000</string>
+    <string name="color_red_hex">#FF0000</string>
+    <string name="color_yellow_hex">#FFFF00</string>
+</resources>
